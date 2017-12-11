@@ -60,11 +60,11 @@ class son(father1,father2):
         father2.__init__(self)
 
 if __name__ == "__main__":
-    # ant1 = Ant()
-    # worm1 = Worm()
-    # map1 = Map(ant1,worm1)
-    # map1.gamestart()
-    Son = son()
+     ant1 = Ant()
+     worm1 = Worm()
+     map1 = Map(ant1,worm1)
+     map1.gamestart()
+    
 
 
 
