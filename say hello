@@ -1,0 +1,9 @@
+# This is my first python program
+# python 3.3.6
+def max(a,b)
+    if(a >= b):
+        return a
+    else:
+        return b
+print("hello")
+max(1,2)
